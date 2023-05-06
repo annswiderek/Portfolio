@@ -15,6 +15,12 @@ On this site I would like to share my all gained experience from personal studie
 
 <a href="https://drive.google.com/file/d/1yUbMqHnhMQPqsGH6UP7RcEw-LvoEOtyK/view?usp=sharing">GoIT Quality Assurance Engineer</a>
 
+
+<a href="https://drive.google.com/file/d/1uEH2tcukFGK7AU6hxPyytzugyF82ifQi/view?usp=sharing">Postman od podstaw - testowanie REST API</a>
+
+<a href="https://drive.google.com/file/d/1gC8wgYtfJtp0iyD2rPFIw_0K4uSnk2DT/view?usp=sharing">Green Digital Skills</a>
+
+
 <hr/>
 
 ### POSTMAN 30 days of Postman Challange
