@@ -24,8 +24,7 @@ On this site I would like to share my all gained experience from personal studie
 <hr/>
 
 ### POSTMAN 30 days of Postman Challange
->[Json Placeholder](https://jsonplaceholder.typicode.com/)<br>
-[![Run in Postman](https://run.pstmn.io/button.svg)](https://www.postman.com/annswiderek/workspace/goit-postman-with-trello-testing/overview)<br>
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://www.postman.com/annswiderek/workspace/30-days-of-postman-challenge/overview)<br>
 
 <hr/><br>
 
@@ -42,7 +41,7 @@ Manual testing of web application contains test cases, review requirements, perf
 ## Courses
 - [Postman od podstaw - testowanie REST API](https://www.udemy.com/course/postman-od-podstaw-testowanie-rest-api/learn/lecture/30197530#overview)<br>
 Course from scratch testing REST API Postman in practice. Automation of API tests Newman + Jenkins CI/CD.
-- [Introduction to Dev Tools](https://frontendmasters.com/courses/dev-tools/)
+
 
 <hr/>
 
