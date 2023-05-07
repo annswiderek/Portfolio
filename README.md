@@ -26,7 +26,7 @@ On this site I would like to share my all gained experience from personal studie
 ### POSTMAN 30 days of Postman Challange
 [![Run in Postman](https://run.pstmn.io/button.svg)](https://www.postman.com/annswiderek/workspace/30-days-of-postman-challenge/overview)<br>
 
-<hr/><br>
+<hr/>
 
 ## Project 
 
