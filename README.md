@@ -7,6 +7,10 @@ On this site I would like to share my all gained experience from personal studie
 </p>
 <hr/>
 
+<img src="wgt.jpg" alt="WomenGoTech">
+I am very happy to annouce that I am a mentee at Women Go Tech Acceleration Program. The development path I have chosen is Quality Assurance.
+
+<hr/>
 ## Certificates
 
 
